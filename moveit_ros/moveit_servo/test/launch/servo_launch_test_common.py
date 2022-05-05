@@ -1,6 +1,4 @@
 import os
-import launch
-import launch_ros
 import launch_testing
 from launch import LaunchDescription
 from launch.some_substitutions_type import SomeSubstitutionsType
